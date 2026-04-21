@@ -1,6 +1,6 @@
 # Postmortem — AI DevOps Incident Response Agent
 
-> **Gemini 2.0 Flash + LangGraph + GitHub API**
+> **Gemini + LangGraph + GitHub API**
 >
 > When an alert fires, Postmortem investigates your real GitHub repo, reads the actual source code at the broken commit, finds the exact bug line, and opens a GitHub issue with full root cause analysis — in under 2 minutes.
 
